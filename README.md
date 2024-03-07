@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/sanjeev-v-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+-😄😄😄😄😄😄😄😄😄😄
 - <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsanjeevv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
