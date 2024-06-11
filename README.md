@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making Web Applications, Software Solutions, Dot Net Technology, Azure
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Full Time Employment
-- 📫 How to reach me https://www.linkedin.com/in/sanjeev-v-gaikwad-88618b228/
+- 📫 How to reach me https://www.linkedin.com/in/sanjeev-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -😄😄😄😄😄😄😄😄😄😄
