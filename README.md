@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @gaikwadsanjeevv
-- Portfolio: https://public.tableau.com/app/profile/sanjeevgaikwad90/vizzes
-- 👀 I’m passionate about creating data-driven solutions, developing robust data pipelines, and leveraging data engineering and analysis to drive insights and innovation.
-- 🌱 I’m currently learning Azure
+- 👀 Passionate Java developer with expertise in building scalable applications using Spring Boot, Hibernate, and RESTful APIs. Skilled in designing efficient algorithms, implementing Microservices architecture, and ensuring code quality through thorough testing and debugging.
+- 🌱 I’m currently learning Cloud Technologies
 - 💞️ I’m looking to collaborate on Full Time Employment
-- 📫 How to reach me https://www.linkedin.com/in/sanjeev-v-gaikwad-88618b228/
+- 📫 How to reach me https://www.linkedin.com/in/sanjeev-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -😄😄😄😄😄😄😄😄😄😄
