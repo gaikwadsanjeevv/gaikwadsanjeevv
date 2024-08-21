@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaikwadsanjeevv
-- 👀 Passionate Java developer with expertise in building scalable applications using Spring Boot, Hibernate, and RESTful APIs. Skilled in designing efficient algorithms, implementing Microservices architecture, and ensuring code quality through thorough testing and debugging.
-- 🌱 I’m currently learning Cloud Technologies.
+- 👀 Passionate Android developer with expertise in building robust mobile applications using Kotlin, Android Jetpack, and RESTful APIs. Skilled in designing intuitive user interfaces, implementing MVVM architecture, and ensuring app performance through thorough testing and optimization.
+- 🌱 I’m currently learning AI in Mobile Development.
 - 💞️ I’m looking to collaborate on Full Time Employment.
 - 📫 How to reach me https://www.linkedin.com/in/sanjeev-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
