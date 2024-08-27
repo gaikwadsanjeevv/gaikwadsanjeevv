@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gaikwadsanjeevv
-- 👀 Passionate Android developer with expertise in building robust mobile applications using Kotlin, Android Jetpack, and RESTful APIs. Skilled in designing intuitive user interfaces, implementing MVVM architecture, and ensuring app performance through thorough testing and optimization.
-- 🌱 I’m currently learning AI in Mobile Development.
+- 👋 Hi, I’m Sanjeev Gaikwad | Github: https://github.com/gaikwadsanjeevv
+- 👀 Profile Summary | Portfolio: https://public.tableau.com/app/profile/sanjeevgaikwad90/vizzes
+- Results-oriented Data Scientist with a proven track record of building and deploying high-impact machine learning models (NLP, Deep Learning) using Python, AWS Sagemaker, and MLOps frameworks. Proven track record of driving business growth through data-driven insights.
+- 🌱 I’m currently learning Gen AI.
 - 💞️ I’m looking to collaborate on Full Time Employment.
-- 📫 How to reach me https://www.linkedin.com/in/sanjeev-gaikwad-88618b228/
+- 📫 How to reach me https://www.linkedin.com/in/sanjeev-v-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -😄😄😄😄😄😄😄😄😄😄
