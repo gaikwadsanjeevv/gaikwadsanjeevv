@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanjeev Gaikwad | Github: https://github.com/gaikwadsanjeevv
-- 👀 Profile Summary | Portfolio: https://public.tableau.com/app/profile/sanjeevgaikwad90/vizzes
-- Results-oriented Data Scientist with a proven track record of building and deploying high-impact machine learning models (NLP, Deep Learning) using Python, AWS Sagemaker, and MLOps frameworks. Proven track record of driving business growth through data-driven insights.
-- 🌱 I’m currently learning Gen AI.
+- 👀 👋 Hi there! I'm an Experienced Software Engineer with a passion for Java and full-stack development. I enjoy crafting scalable web applications and optimizing backend data management with technologies like Spring Boot, Hibernate, and MySQL.
+- 🌱 I’m currently AWS / Azure / Google Cloud.
 - 💞️ I’m looking to collaborate on Full Time Employment.
 - 📫 How to reach me https://www.linkedin.com/in/sanjeev-v-gaikwad-88618b228/
 - 😄 Pronouns: He/Him
