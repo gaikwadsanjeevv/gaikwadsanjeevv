@@ -1,16 +1,19 @@
-👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io]  
-🚀 Aspiring Data Scientist | 🧠 Machine Learning Engineer | ☁️ Big Data & Cloud Enthusiast  
-🔹 Building intelligent machine learning models with scikit-learn, TensorFlow, Keras, and XGBoost 🤖📚
-🔹 Data preprocessing, feature engineering, and statistical analysis using Pandas, NumPy, Seaborn, and Matplotlib 📊🧮  
-🔹 Designing scalable data pipelines with Apache Spark (PySpark), Kafka, and Airflow for batch and streaming workflows 🔄🔥  
-🔹 Cloud-native model deployment using AWS (Lambda, S3, EC2), GCP (BigQuery, Cloud Run, Pub/Sub) ☁️🚀  
-🔹 Developing REST APIs for machine learning inference using Flask and FastAPI 🚪🔗  
-🔹 Managing large-scale data storage and querying with PostgreSQL 🐘, BigQuery 🗃️, and MongoDB 🍃    
-🔹 Automating ETL workflows and model retraining pipelines with Airflow and serverless architecture ⚙️📈  
-🔹 Practicing MLOps with Docker, Kubernetes (GKE basics), and GitHub Actions for seamless deployment and monitoring 🛠️🐳  
+👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io]
+🚀 Full Stack Developer | ☁️ Cloud-Native Architect | 🔄 Event-Driven Systems Enthusiast
+🔹 Building scalable backend services using Java (8–17), Spring Boot, and Microservices architecture ☕🧩
+🔹 Frontend development with React.js and TypeScript for modern, responsive UIs ⚛️💡
+🔹 Real-time data pipelines and messaging with Kafka and RabbitMQ for high-throughput systems 📬⚡
+🔹 Cloud deployment and DevOps with AWS (Lambda, EC2, S3), GCP (Cloud Run, BigQuery), Docker, and Kubernetes ☁️🐳
+🔹 API Security with OAuth2, JWT, and Spring Security 🔐🛡️
+🔹 Optimizing performance with PostgreSQL, MongoDB, Redis, and caching strategies 🗃️🚀
+🔹 Automating CI/CD pipelines with Jenkins, GitHub Actions, and Terraform for infrastructure as code 🔁⚙️
+🔹 Writing robust tests with JUnit and Mockito for high code reliability and quality assurance ✅🧪
 
-💞️ I’m looking to collaborate on Full-Time Opportunities focused on Machine Learning, Data Science, and Big Data Engineering at scale.  
-😄 Pronouns: He/Him  
+💼 Currently working at EnCiv, transforming monoliths into event-driven microservices with GraphQL, Axon, and Kafka.
+💞️ I’m looking to collaborate on impactful full-time opportunities in backend engineering, cloud-native systems, or scalable product platforms.
+😄 Pronouns: He/Him
+
+ 
  
 - ⚡ Fun fact: ...    
 -😄😄😄😄😄😄😄😄😄😄  
