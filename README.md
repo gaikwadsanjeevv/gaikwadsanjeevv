@@ -1,17 +1,18 @@
-👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io]  
-🚀 Full Stack Developer | ☁️ Cloud-Native Architect | 🔄 Event-Driven Systems Enthusiast  
-🔹 Building scalable backend services using Java (8–17), Kotlin, Dot.Net, Spring Boot, and Microservices architecture ☕🧩  
-🔹 Frontend development with Angular, React.js and TypeScript for modern, responsive UIs ⚛️💡  
-🔹 Real-time data pipelines and messaging with Kafka and RabbitMQ for high-throughput systems 📬⚡  
-🔹 Cloud deployment and DevOps with AWS (Lambda, EC2, S3), GCP (Cloud Run, BigQuery), Docker, and Kubernetes ☁️🐳  
-🔹 API Security with OAuth2, JWT, and Spring Security 🔐🛡️  
-🔹 Optimizing performance with PostgreSQL, MongoDB, Redis, and caching strategies 🗃️🚀  
-🔹 Automating CI/CD pipelines with Jenkins, GitHub Actions, and Terraform for infrastructure as code 🔁⚙️  
-🔹 Writing robust tests with JUnit and Mockito for high code reliability and quality assurance ✅🧪  
+👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io
+]
+🎨 Frontend / Full Stack Developer | ⚡ Performance Optimizer | 🌐 User-Centric UI Engineer
 
-💼 Currently working at EnCiv, transforming monoliths into event-driven microservices with GraphQL, Axon, and Kafka.  
-💞️ I’m looking to collaborate on impactful full-time opportunities in backend engineering, cloud-native systems, or scalable product platforms.  
-😄 Pronouns: He/Him  
+🔹 Building modern, responsive UIs with React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Webpack ⚛️💡
+🔹 Site speed optimization with code-splitting, lazy loading, caching, and Webpack bundling for fast, scalable apps 🚀📊
+🔹 Browser storage & memory management with local/session storage, IndexedDB, and efficient client-side caching 🗂️⚡
+🔹 Node.js & REST APIs integration for secure, seamless frontend–backend communication 🔄🔐
+🔹 Cross-browser, accessible UI design aligned with WCAG standards and mobile-first principles 📱🌍
+🔹 Cloud deployments with AWS, GCP, and containerization using Docker + Kubernetes ☁️🐳
+🔹 Continuous delivery and quality with CI/CD pipelines, automated testing, and GitHub Actions 🔁✅
+
+💼 Currently building scalable React-based civic engagement solutions at EnCiv, focusing on UI performance & user experience.
+💞️ Open to collaborating on impactful frontend/full stack roles driving user experience, performance, and innovation.
+😄 Pronouns: He/Him
 
  
  
