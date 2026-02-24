@@ -1,18 +1,19 @@
 👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io]  
 ]
-🎨 Frontend / Full Stack Developer | ⚡ Performance Optimizer | 🌐 User-Centric UI Engineer  
+💻 Backend-Focused Full Stack Developer | ⚡ Scalable Systems Builder | ☁️ Cloud & Microservices  
 
-🔹 Building modern, responsive UIs with React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Webpack ⚛️💡  
-🔹 Site speed optimization with code-splitting, lazy loading, caching, and Webpack bundling for fast, scalable apps 🚀📊  
-🔹 Browser storage & memory management with local/session storage, IndexedDB, and efficient client-side caching 🗂️⚡  
-  🔹 Node.js & REST APIs integration for secure, seamless frontend–backend communication 🔄🔐  
-🔹 Cross-browser, accessible UI design aligned with WCAG standards and mobile-first principles 📱🌍  
-🔹 Cloud deployments with AWS, GCP, and containerization using Docker + Kubernetes ☁️🐳  
-🔹 Continuous delivery and quality with CI/CD pipelines, automated testing, and GitHub Actions 🔁✅  
+🔹 Strong backend expertise in Java, Spring Boot, Microservices, REST APIs, and event-driven systems 🚀  
+🔹 Building scalable, secure distributed applications on AWS, GCP, and Azure ☁️  
+🔹 Experienced with Docker, Kubernetes, Terraform, and production-grade CI/CD pipelines 🐳  
+🔹 Solid frontend working knowledge with React.js, TypeScript, JavaScript (ES6+) for full-stack delivery ⚛️  
+🔹 Performance tuning, observability, and reliability improvements for high-throughput systems 📊  
+🔹 Database design & optimization with PostgreSQL, MongoDB, Oracle 🗄️  
+🔹 Secure API development with Spring Security, JWT, OAuth concepts 🔐  
 
-💼 Currently building scalable React-based civic engagement solutions at EnCiv, focusing on UI performance & user experience.  
-💞️ Open to collaborating on impactful frontend/full stack roles driving user experience, performance, and innovation.  
-😄 Pronouns: He/Him  
+💼 Currently contributing to scalable healthcare and civic platforms, focusing primarily on backend architecture and system reliability 🏗️  
+
+🤝 Open to collaborating on impactful backend or full-stack (backend-leaning) opportunities 🚀  
+😄 Pronouns: He/Him    
 
  
  
