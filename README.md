@@ -1,6 +1,6 @@
 👋 Hi, I’m Sanjeev Gaikwad | Portfolio: [https://gaikwadsanjeevv.github.io]  
 ]
-💻 **Backend-Focused Full Stack Engineer | Applied AI & Scalable Systems | Cloud & Microservices**  
+💻 **Senior Backend Engineer | Distributed Systems | AI-enabled Platforms (LLM, RAG, MCP) | Java, Spring Boot, AWS**  
 
 🔹 Strong backend expertise in Java, Spring Boot, Microservices, REST APIs, and event-driven systems 🚀    
 🔹 Building **AI-enabled, secure distributed platforms** on AWS, GCP, and Azure ☁️    
